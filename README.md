@@ -35,7 +35,7 @@ python app.py
 ```
 
 ## Dataset
-[BraTS 2021](https://www.synapse.org/#!Synapse:syn25829067) —
+[BraTS 2021](https://www.synapse.org/#!Synapse:syn25829067) 
 ```bash
 import kagglehub
 path = kagglehub.dataset_download(
