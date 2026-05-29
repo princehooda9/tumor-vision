@@ -1,0 +1,10 @@
+data/
+cache/
+checkpoints/
+*.ckpt
+*.pdf
+*.docx
+__pycache__/
+*.pyc
+.env
+wandb/
