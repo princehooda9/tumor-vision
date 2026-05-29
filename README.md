@@ -36,9 +36,7 @@ python app.py
 
 ## Dataset
 [BraTS 2021](https://www.synapse.org/#!Synapse:syn25829067) — 
-
 import kagglehub
-# Download latest version
 path = kagglehub.dataset_download(
     "dschettler8845/brats-2021-task1"
 )
